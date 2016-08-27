@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/js/coffee/horizontal_scroll.coffee",
+			"settings":
+			{
+				"buffer_size": 6595,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 68.0,
+		"selected_items":
+		[
+			[
+				"setsynphp	",
+				"Set Syntax: PHP"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"setsynbas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/N/Sites/Acid/wp-content/themes/acid/single-portfolio.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/assets/js/coffee/horizontal_scroll.coffee",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/inc/pure/Pure.class.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/templates/page-one-page-layout.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/inc/pure/metabox_options.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/templates/parts/page-cover-image.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/theme_config.yml",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/changelog.txt",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/template-blog.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/assets/sass/module/_sidebar.sass",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/inc/pure/core.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/inc/pure/extended_options.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/style.css",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/assets/js/libs/jquery.imagesloaded.js",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/footer.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/assets/sass/module/_footer.sass",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/inc/pure/Pure_Customizer.class.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/assets/js/coffee/main.coffee",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/templates/page-cover-image.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/assets/sass/layout/_responsive.sass",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/assets/sass/layout/_horizontal.sass",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/js/app.js",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/templates/page-blank.php",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/single.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/templates/page-image.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/functions.php",
+		"/Users/N/Sites/Acid/wp-content/themes/acid/assets/js/coffee-compiled/main.js",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/etc/hosts",
+		"/Users/N/Sites/Acid/wp-config.php",
+		"/Users/N/Sites/Acid/wp-con",
+		"/usr/local/Cellar/mysql/5.6.13/my-new.cnf",
+		"/usr/local/Cellar/mysql/5.6.13/my.cnf",
+		"/usr/local/Cellar/mysql/5.6.13/my",
+		"/Users/N/Sites/Positivus/wp-config.php",
+		"/Users/N/.zshrc",
+		"/Users/N/Sites/Positivus/wp-c",
+		"/Users/N/.z",
+		"/private/etc/apache2/extra/httpd-default.conf",
+		"/private/etc/apache2/other/+php-osx.conf",
+		"/private/etc/apache2/apachectl",
+		"/private/etc/apache2/stop",
+		"/private/etc/apache2/httpd.conf.pre-update",
+		"/private/etc/apache2/httpd.conf~previous",
+		"/Users/N/Library/LaunchAgents/homebrew.mxcl.php54.plist",
+		"/Users/N/.bash_profile",
+		"/Users/N/.zprofile",
+		"/Users/N/.oh-my-zsh/oh-my-zsh.sh",
+		"/Users/N/Sites/Positivus/wp-co",
+		"/private/etc/apache2/original/httpd.conf",
+		"/Users/N/.bin/php-switch",
+		"/Users/N/.bin/php-switch/php-switch",
+		"/Users/N/Tools/php-version"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/N/Sites/Acid/wp-content/themes/acid/",
+			"/Users/N/Sites/Acid/wp-content/themes/acid/assets/sass",
+			"/Users/N/Sites/Acid/wp-content/themes/acid/assets/js/coffee",
+			"/Users/N/Sites/Acid/wp-content/themes/acid"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"0",
+			"portfolio_meta",
+			"maybe_enable_sidebar",
+			"add_metaboxes",
+			"pure_page_options",
+			"post_color",
+			"hb",
+			"$c",
+			"blog_sidebar",
+			"refresh_document",
+			"content",
+			"$(\"#content\")",
+			"$(\"#content\"",
+			"$(\"#scrollbar\")",
+			"#page-thumbnail",
+			"on_ready",
+			"refresh_document",
+			"page-thumbnail",
+			"page_thumbnail",
+			"#page-thumbnail",
+			"#page-thumbnai",
+			".data",
+			"featured-image",
+			"featuredImage",
+			"data",
+			"pure_scripts_child",
+			"pure_scripts",
+			"RW_Meta_Box",
+			".",
+			"acid.theme",
+			"logLevel",
+			"/usr/bin",
+			"/usr/local/bin",
+			"Library/WebServer/Documents",
+			"php"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/js/coffee/horizontal_scroll.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5742,
+								5768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2925.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.620847305111,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "Acid.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"horicoff",
+				"assets/js/coffee/horizontal_scroll.coffee"
+			],
+			[
+				"horcoff",
+				"assets/js/coffee/horizontal_scroll.coffee"
+			],
+			[
+				"singlepor",
+				"single-portfolio.php"
+			],
+			[
+				"changelo",
+				"changelog.txt"
+			],
+			[
+				"blog",
+				"template-blog.php"
+			],
+			[
+				"theme",
+				"theme_config.yml"
+			],
+			[
+				"metaboxopts",
+				"inc/pure/metabox_options.php"
+			],
+			[
+				"sidebarsass",
+				"assets/sass/module/_sidebar.sass"
+			],
+			[
+				"changelox",
+				"changelog.txt"
+			],
+			[
+				"pureclass",
+				"inc/pure/Pure.class.php"
+			],
+			[
+				"changelog",
+				"changelog.txt"
+			],
+			[
+				"corephp",
+				"inc/pure/core.php"
+			],
+			[
+				"meta",
+				"inc/pure/metabox_options.php"
+			],
+			[
+				"metaboxop",
+				"inc/pure/metabox_options.php"
+			],
+			[
+				"extendedop",
+				"inc/pure/extended_options.php"
+			],
+			[
+				"corep",
+				"inc/pure/core.php"
+			],
+			[
+				"metabox",
+				"inc/pure/metabox_options.php"
+			],
+			[
+				"chan",
+				"changelog.txt"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"stylecss",
+				"style.css"
+			],
+			[
+				"themey",
+				"theme_config.yml"
+			],
+			[
+				"imagesloadedjs",
+				"assets/js/libs/jquery.imagesloaded.js"
+			],
+			[
+				"horsc",
+				"assets/js/coffee/horizontal_scroll.coffee"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"themeyml",
+				"theme_config.yml"
+			],
+			[
+				"maincoff",
+				"assets/js/coffee/main.coffee"
+			],
+			[
+				"footer",
+				"assets/sass/module/_footer.sass"
+			],
+			[
+				"customiec",
+				"inc/pure/Pure_Customizer.class.php"
+			],
+			[
+				"footephp",
+				"footer.php"
+			],
+			[
+				"resposass",
+				"assets/sass/layout/_responsive.sass"
+			],
+			[
+				"horsass",
+				"assets/sass/layout/_horizontal.sass"
+			],
+			[
+				"appjs",
+				"js/app.js"
+			],
+			[
+				"horosass",
+				"assets/sass/layout/_horizontal.sass"
+			],
+			[
+				"blank",
+				"templates/page-blank.php"
+			],
+			[
+				"coverimage",
+				"templates/parts/page-cover-image.php"
+			],
+			[
+				"horisass",
+				"assets/sass/layout/_horizontal.sass"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"singlephp",
+				"single.php"
+			],
+			[
+				"metaphp",
+				"inc/pure/metabox_options.php"
+			],
+			[
+				"mainjs",
+				"assets/js/coffee-compiled/main.js"
+			],
+			[
+				"headercoff",
+				"js/coffee/toggle_header.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
