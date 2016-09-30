@@ -1,0 +1,23 @@
+{
+  "name": "dzc",
+  "version": "1.0.1",
+  "description": "this is blog",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bgulpfile.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jpmak",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmak/www.git"
+  },
+  "keywords": [
+    "dzc‘s",
+    "blog"
+  ],
+  "bugs": {
+    "url": "https://github.com/jpmak/www/issues"
+  },
+  "homepage": "https://github.com/jpmak/www#readme"
+}
